@@ -1,3 +1,4 @@
+![photo](./logo.jpg)
 1. Oleg Kuznecov
 2. oleg610732@gmail.com
 3. I am interested in programming for self-development
@@ -10,4 +11,4 @@ function nthFibo(n) {
 ```
 6. No experience in programming.
 7. Higher mathematical education. BSU.
-8. Pre-Intermediate (А2) 
+8. Pre-Intermediate (А2)
