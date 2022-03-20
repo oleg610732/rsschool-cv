@@ -9,6 +9,7 @@ function nthFibo(n) {
   return (n <= 2) ? n - 1 : nthFibo(n-1) + nthFibo(n-2);
 }
 ```
-6. No experience in programming.
+6. No experience in programming. Educational projects:
+* [Algorithmic tasks](https://github.com/oleg610732/basic-js )
 7. Higher mathematical education. BSU.
 8. Pre-Intermediate (А2)
